@@ -1,4 +1,4 @@
-# 👁️ BlackEye
+# 👁️ DarkEye
 Basic cryptor written in C#
 
 # 🔑 Method 
